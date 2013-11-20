@@ -1,0 +1,3 @@
+# mcollective_deploy #
+
+This is the mcollective_deploy module. It provides...
