@@ -1,0 +1,2 @@
+class windows::apps {
+}
